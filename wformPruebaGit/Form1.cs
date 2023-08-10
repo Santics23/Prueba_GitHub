@@ -16,5 +16,9 @@ namespace wformPruebaGit
         {
             InitializeComponent();
         }
+
+        public void mtdGuardar(){
+            int num = 0;
+        }
     }
 }
